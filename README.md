@@ -239,7 +239,7 @@ This dashboard provides a high-level overview of sales performance.
 - A small number of customers generate a significant portion of revenue.
 - Sales performance fluctuates across months and years.
 
-![Dashboard1](images/Sales Insights.png)
+![Dashboard1](images/sales_insights.png)
 
 ### Dashboard 2 — Profit Analysis
 
@@ -262,7 +262,7 @@ This dashboard focuses on profitability insights based on stakeholder feedback f
 - Some markets generate revenue but relatively lower profits.
 - Brick & Mortar channels dominate sales distribution compared to E-Commerce.
 
-![Dashboard2](images/Profit Analysis.png)
+![Dashboard2](images/profit_analysis.png)
 
 
 ### Dashboard 3 — Revenue & Market Performance
@@ -293,7 +293,7 @@ Insights:
 - Markets like Mumbai and Ahmedabad generate moderate revenue and profit.
 - Some markets generate low revenue and limited profitability.
 
-![Dashboard3](images/Revenue and Market performance.png)
+![Dashboard3](images/revenue_and_market_performance.png)
 
 ---
 
